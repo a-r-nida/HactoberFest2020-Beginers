@@ -1,5 +1,1 @@
-<p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="Assets/hacktober-logo.svg" width="30%">
-    </a>
-</p>
+Link to Hactober Fest 2020 https://hacktoberfest.digitalocean.com/

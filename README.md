@@ -1,2 +1,5 @@
-# WebDevelopment : Web development is the work involved in developing a Web site for the Interet (World Wide Web) or an intrnet (a private network).Web devlopment can range from developing a simple single static page of plain text to complex Web-based Internet applications (Web apps), electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web enginering, Web design, Web content development, client liaion, client-side/server-side scripting, Web server and network security confguration, and e-commerce development.
-For learning web development you must have a knowledge in HTML, CSS, JAVASCRIPT, PHP. 
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="Assets/hacktober-logo.svg" width="30%">
+    </a>
+</p>

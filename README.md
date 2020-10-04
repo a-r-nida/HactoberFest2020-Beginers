@@ -17,6 +17,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
         Link To HactoberFest 2020
     </a>
 </h3>
+
 ***
 <h4 align="center"> Whether it’s your first or fiftieth pull request, there’s always more to learn! We’ve put together a few resources that can help you create quality pull requests, keep your repositories pristine, and build on your open source knowledge. </h4>
 ***
@@ -25,6 +26,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
        Join Discord Conversation
     </a>
 </h3>
+
 ***
 ## Rules
 

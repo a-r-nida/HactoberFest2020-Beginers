@@ -33,13 +33,13 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 </h3>
 
 ***
-## Rules
+## Rules To Contribute To This Repo -
 
 -   Use any language.
 -   C, C++, JAVA, Data Structure and Algorithms, HTML, CSS.
 -   Anything valuable.
 
-## Steps for contribution -
+## Steps For Contribution -
 
     1. Fork this repo
     2. Add a file

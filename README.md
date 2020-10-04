@@ -1,3 +1,5 @@
+<h1 align="center"> Hacktoberfest 2020 </h1>
+    
 ## Event details :
 
 - Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
@@ -12,14 +14,13 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
+        Link To HactoberFest 2020
     </a>
 </p>
-<h1 align="center"> Hacktoberfest 2020 🎉</h1>
 
 <div align="center">
-
 Whether it’s your first or fiftieth pull request, there’s always more to learn! We’ve put together a few resources that can help you create quality pull requests, keep your repositories pristine, and build on your open source knowledge.
-
+<div>
 Join Discord Conversation https://discord.com/invite/hacktoberfest
 
 ## Rules

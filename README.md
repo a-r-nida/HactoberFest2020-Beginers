@@ -12,11 +12,11 @@
 
 To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants who successfully complete the challenge will be eligible to receive a prize.
 
-<p align="center">
+<h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
         Link To HactoberFest 2020
     </a>
-</p>
+</h3>
 
 <h4 align="center"> Whether it’s your first or fiftieth pull request, there’s always more to learn! We’ve put together a few resources that can help you create quality pull requests, keep your repositories pristine, and build on your open source knowledge. </h4>
 
@@ -33,7 +33,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 -   Anything valuable.
 
 ***
-Steps for contribution -
+## Steps for contribution -
 
     1. Fork this repo
     2. Add a file

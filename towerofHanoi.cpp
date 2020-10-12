@@ -13,11 +13,9 @@ void towerOfHanoi(int n, char source, char auxiliary, char destination) {
 	towerOfHanoi(n - 1, auxiliary, source, destination);
 }
 
-int main() {
 
-	freopen("input.txt", "r", stdin);
-	freopen("output.txt", "w", stdout);
-
-
-	return 0;
+int main()  {  
+    int n = 4; // Number of disks  
+    towerOfHanoi(n, 'A', 'C', 'B'); // A, B and C are names of rods  
+    return 0;  
 }

@@ -1,0 +1,57 @@
+<!DOCTYPE html> 
+<html>  
+<head>
+<style>
+  .red-text {
+    color:black;
+  }
+
+  p{
+    font-size: 25px;
+    color:black;
+    font-family: monospace;
+    background-color:gray;
+    font-weight: bold;
+  }
+
+#para1 {
+  text-align: center;
+  color: black;
+  background-color:gray;
+}
+*{
+background-color: gray;
+}
+</style>
+
+<h1 style="color: blue;text-align:center;">My Page</h1>  
+<p id="para1">Hello World!</p>
+<h2 class="red-text">Success in Life</h2>
+</head>
+<main>
+  <div>
+    <p>How to be a successful person:</p>
+    <ul>
+      <li>Strongly willing to learn</li>
+      <li>Sustain Failure</li>
+      <li>Strong Determination</li>
+    </ul>
+
+    <p>Necessities for success:</p>
+    <ol>
+      <li>Good Idea</li>
+      <li>Plan to work upon</li>
+      <li>Smart work</li>
+    </ol>
+  </div>
+
+  <form action="/submit">
+     <h2 style="color: red;">Do you think you are</h2>
+    <label><input type="checkbox" name="personality" > Strong</label>
+    <label><input type="checkbox" name="personality"> Lazy</label>
+    <label><input type="checkbox" name="personality"> Energetic</label><br><br>
+    <input type="text" placeholder="Add Comments" required><br><br>
+    <button type="submit">Submit</button>
+  </form>
+</main>
+</html>

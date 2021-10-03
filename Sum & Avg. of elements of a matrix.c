@@ -15,7 +15,7 @@ int main()
 		for(j=0;j<n;j++)
 			sum=sum+matrix[i][j];
 	avg=sum/(m*n);
-	printf("\nSum Of All Elements In Matrix = %d",sum);
-	printf("\nAverage Of Matrix = %d",avg);
+	printf("\nSum Of All Elements In Matrix = %d and Average of Matrix = %d",sum,avg);
+	
 	return 0;
 }

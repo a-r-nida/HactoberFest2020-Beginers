@@ -115,6 +115,13 @@ This will be the format under Contributions Tab.
 
 <br><br><br>
 
+**This is my leaderboard for this year on 04/10/2021** 🔽
+![image](https://user-images.githubusercontent.com/40369168/135886109-d10941ca-94ee-43e7-a88a-adfb6af1f6e6.png)
+
+**Below is my tracker for today i.e. 04/10/2021** 🔽
+![image](https://user-images.githubusercontent.com/40369168/135886288-b84b6cb8-950c-48b3-bbfe-2bd7802f8770.png)
+
+
 ---
 
 > I've tried to cover every small detail I've gone through. If anyone have doubt do raise an issue, I'll try to cover that also. If you've any questions, they're also welcomed !

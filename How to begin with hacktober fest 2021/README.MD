@@ -27,7 +27,7 @@ So, let's get started. Let's assume you're a developer who'll participate in thi
 
 # Steps to perform
 
-- **Registeration**
+### **Registeration**
 1. The very first thing is to login into your github profile in your browser.
 2. Navigate to the [Hacktober Fest 2021](https://hacktoberfest.digitalocean.com/) url.
 3. Sign Up with your github profile. (You may also use your gitlab profile)
@@ -35,7 +35,7 @@ So, let's get started. Let's assume you're a developer who'll participate in thi
 5. Here marks the ending of registeration part in Hacktobert Fest 2021.
 
 ---
-- **Uploading your project in GitHub account**
+### **Uploading your project in GitHub account**
 
 Created your project in local computer? Let's upload into your github account.
 
@@ -50,7 +50,7 @@ Created your project in local computer? Let's upload into your github account.
 
 ---
 
-- **Find repos who're participating in Hacktober Fest 2021 so that your work will be added in this fest**
+### **Find repos who're participating in Hacktober Fest 2021 so that your work will be added in this fest**
 
 1. Go to search bar of GitHub
 2. Search for hacktoberfest2021
@@ -60,7 +60,7 @@ My Suggestion: If you're a fresher, just search for the repo having some simple 
 
 ---
 
-- **How to raise an Issue before raising PR**
+### **How to raise an Issue before raising PR**
 
 > Question should be why to raise an issue before PR. Answer is simple - Maybe your idea/code maybe already contributed by other fellow developer.  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;OR   
@@ -75,7 +75,7 @@ Maintainer doens't want particular type of code/project in his repo. So, he can 
 
 ---
 
-- **How to upload your own projects & contribute to open-source**
+### **How to upload your own projects & contribute to open-source**
 
 1. Hope you've found the repo you want to contribute. Go to the repo & click on fork button on the top-right corner.
   
@@ -87,7 +87,7 @@ Maintainer doens't want particular type of code/project in his repo. So, he can 
 
 ---
 
-- **How to do a PR (Pull Request) ?**
+### **How to do a PR (Pull Request) ?**
 > Don't think too much, if you've successfully completed 4 PRs in same repo also, you'll be eligible for that swag/tshirts by Digital Ocean. :happy:
 
 1. After uploading the folder/files, click on Pull Request button in top corner.

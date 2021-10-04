@@ -64,7 +64,9 @@ My Suggestion: If you're a fresher, just search for the repo having some simple 
 Maintainer doens't want particular type of code/project in his repo. So, he can deny for that Pull Request.
 
 1. Click on Issue tab
-2. Click on New Raise button
+2. Click on New Issue button
+ ![Uploading image.png…]()
+
 3. Give necessary information about your idea of new project which you want to contribute
 4. Click on Raise Issue button in bottom
 5. Moderator/Maintainer will review the issue/idea for project & assign you with a Issue no. (for eg. - #35)
@@ -75,7 +77,9 @@ Maintainer doens't want particular type of code/project in his repo. So, he can 
 - **How to upload your own projects & contribute to open-source**
 
 1. Hope you've found the repo you want to contribute. Go to the repo & click on fork button on the top-right corner.
+  
 2. GitHub will ask where to fork it. Click on your `username/repo-name` link
+  
 3. Upload the necessary folder/files in the specified place in repo.
 
 *That's it programmer !*
@@ -87,10 +91,17 @@ Maintainer doens't want particular type of code/project in his repo. So, he can 
 
 1. After uploading the folder/files, click on Pull Request button in top corner.
 2. Click on New Pull Request.
+  ![image](https://user-images.githubusercontent.com/40369168/135883341-56f8dcdc-6fbf-4dc8-ba6b-c7feee4fbd9a.png)
+
 3. Make sure New Pull Request should not be conflicting ones. Mostly, it doesn't but be sure.
-4. Give necessary information about your newly added files/folder which you've created.
-5. Click on Commit Changes button to complete the overall Pull Request.
-6. Now,your job is completed. Moderator/Maintainer of the repo will review the project & once satisfied, he'll merge the commit into `main` branch.
+  ![image](https://user-images.githubusercontent.com/40369168/135883604-25c68ec5-f35c-4a85-85eb-b4eded7ce55d.png)
+
+5. Give necessary information about your newly added files/folder which you've created.
+  
+6. Click on Create Pull Request button to complete the overall Pull Request.
+  ![image](https://user-images.githubusercontent.com/40369168/135883837-eb24f0ec-cb90-4f74-83ac-c57b52683cc5.png)
+
+7. Now,your job is completed. Moderator/Maintainer of the repo will review the project & once satisfied, he'll merge the commit into `main` branch.
 
 ---
 

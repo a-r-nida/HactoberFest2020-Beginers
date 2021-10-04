@@ -65,8 +65,6 @@ Maintainer doens't want particular type of code/project in his repo. So, he can 
 
 1. Click on Issue tab
 2. Click on New Issue button
- ![Uploading image.png…]()
-
 3. Give necessary information about your idea of new project which you want to contribute
 4. Click on Raise Issue button in bottom
 5. Moderator/Maintainer will review the issue/idea for project & assign you with a Issue no. (for eg. - #35)
